@@ -92,8 +92,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="38">
-                <caret line="2" column="100" selection-start-line="2" selection-start-column="100" selection-end-line="2" selection-end-column="100" />
+              <first_editor relative-caret-position="437">
+                <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -130,6 +130,9 @@
       <find>import</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -165,6 +168,7 @@
     <option name="width" value="1718" />
     <option name="height" value="1417" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -180,33 +184,6 @@
             </path>
             <path>
               <item name="llnet_tf" type="b2602c69:ProjectViewProjectNode" />
-              <item name="llnet_tf" type="462c0819:PsiDirectoryNode" />
-              <item name="finetuned_model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="llnet_tf" type="b2602c69:ProjectViewProjectNode" />
-              <item name="llnet_tf" type="462c0819:PsiDirectoryNode" />
-              <item name="pretrained_model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="llnet_tf" type="b2602c69:ProjectViewProjectNode" />
-              <item name="llnet_tf" type="462c0819:PsiDirectoryNode" />
-              <item name="test_result" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="llnet_tf" type="b2602c69:ProjectViewProjectNode" />
-              <item name="llnet_tf" type="462c0819:PsiDirectoryNode" />
-              <item name="test_result" type="462c0819:PsiDirectoryNode" />
-              <item name="test_input" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="llnet_tf" type="b2602c69:ProjectViewProjectNode" />
-              <item name="llnet_tf" type="462c0819:PsiDirectoryNode" />
-              <item name="test_result" type="462c0819:PsiDirectoryNode" />
-              <item name="test_pretrain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="llnet_tf" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -216,6 +193,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -372,18 +350,17 @@
       <workItem from="1567994594639" duration="88234000" />
       <workItem from="1568816226455" duration="28000" />
       <workItem from="1569375617931" duration="4702000" />
-      <workItem from="1569390094169" duration="37697000" />
+      <workItem from="1569390094169" duration="38030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130661000" />
+    <option name="totallyTimeSpent" value="130994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="835" y="23" width="1718" height="1417" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19033413" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19033413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -397,7 +374,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="File Transfer" order="9" weight="0.32981133" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.14490566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32603773" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32981133" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -782,8 +759,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="38">
-            <caret line="2" column="100" selection-start-line="2" selection-start-column="100" selection-end-line="2" selection-end-column="100" />
+          <first_editor relative-caret-position="437">
+            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           </first_editor>
           <second_editor />
         </state>
